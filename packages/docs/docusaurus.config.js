@@ -8,7 +8,7 @@ const config = {
   title: 'CPS',
   tagline: 'Crypto Payment Service',
   url: 'https://google.com',
-  baseUrl: '/',
+  baseUrl: '/crypto-payment-service/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
