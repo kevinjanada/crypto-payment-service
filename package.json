@@ -5,8 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "docs:build": "npx lerna run build --scope=docs",
-    "docs:serve": "npx lerna run serve --scope=docs"
+    "docs:build": "./docs:build.sh"
   },
   "workspaces": [
     "packages/*"
