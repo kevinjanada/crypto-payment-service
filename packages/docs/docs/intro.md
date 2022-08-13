@@ -1,6 +1,3 @@
----
----
-
 # Crypto Payment Service (CPS)
 CPS is a crypto to fiat bridge, connecting crypto paying users to fiat receiving merchants.  
 Through CPS, users can pay merchants in Crypto, while merchants still receive their payment in Fiat.  
